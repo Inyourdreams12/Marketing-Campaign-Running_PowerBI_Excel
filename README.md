@@ -27,11 +27,26 @@ PowerBI: Measure DAX Metrics and Data Visualization
 <img width="1235" alt="image" src="https://github.com/Inyourdreams12/Marketing-Campaign-Running_PowerBI_Excel/assets/119731058/de8a0a03-e347-468a-9df4-bccba36775bc">
 
 <br/>
-- The close view counts of top 3 (20M, 18M, and 11M) indicate a competitive landscape where the top channels have similar levels of viewership.
+- Trrmap showcasing the close view counts of top 3 (20M, 18M, and 11M) indicate a competitive landscape where the top channels have similar levels of viewership.
 - These channels are all popular and likely have content that resonates well with their audiences.
 <br/>
-- The barchart showing top 3 YouTubers by subscribers (26M, 28M, and 33M) highlights a competitive yet close race for subscriber dominance.
+<br/>
+- The bar chart showing top YouTubers by subscribers, highlights a competitive yet close race for subscriber dominance.
 <br/>
 <br/>
 - The Table provide a detailed numerical breakdown of key metrics for each channel, allowing for precise analysis and comparison.<br/>
+<br/>
+<pre>
+
+
+
+
+   
+</pre>
+<img width="810" alt="image" src="https://github.com/Inyourdreams12/Marketing-Campaign-Running_PowerBI_Excel/assets/119731058/87cc70a4-f269-422f-bec1-5fdeff7b6f21">
+- Trrmap showcasing the close view counts of top 3 (20M, 18M, and 11M) indicate a competitive landscape where the top channels have similar levels of viewership.
+- These channels are all popular and likely have content that resonates well with their audiences.
+<br/>
+<br/>
+- The bar chart showing top YouTubers by subscribers, highlights a competitive yet close race for subscriber dominance.
 <br/>
