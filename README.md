@@ -44,6 +44,6 @@ PowerBI: Measure DAX Metrics and Data Visualization
    
 </pre>
 <img width="912" alt="image" src="https://github.com/Inyourdreams12/Marketing-Campaign-Running_PowerBI_Excel/assets/119731058/7aa55ec0-ddce-4025-a45d-b4424cb8f753">
-
-Recommendation:
+<br/>
+Recommendation:<br/>
 -Based on the viewership and views per subscriber, "Dan Rhodes" of top3 appears to be the best option to advance with because there's a higher return on investment (ROI) with "Dan Rhodes" compared to the other channels.
