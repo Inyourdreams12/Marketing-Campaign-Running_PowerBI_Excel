@@ -1,6 +1,6 @@
 # [POWER BI] Youtube Marketing Campaign
 
-The Client want to run a successful marketing campaign with the top Youtubers from the UK, with the marketing budget approved by the board is about $60,000.
+The client wants to run a successful marketing campaign with the top YouTubers from the UK, with a marketing budget of approximately $60,000 approved by the board.
 
 ## The Objective: 
 
