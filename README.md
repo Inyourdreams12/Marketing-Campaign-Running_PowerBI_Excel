@@ -27,7 +27,7 @@ PowerBI: Measure DAX Metrics and Data Visualization
 <img width="1235" alt="image" src="https://github.com/Inyourdreams12/Marketing-Campaign-Running_PowerBI_Excel/assets/119731058/de8a0a03-e347-468a-9df4-bccba36775bc">
 
 <br/>
-- Trrmap showcasing the close view counts of top 3 (20M, 18M, and 11M) indicate a competitive landscape where the top channels have similar levels of viewership.
+- Treemap showcasing the close view counts of top 3 (20M, 18M, and 11M) indicate a competitive landscape where the top channels have similar levels of viewership.
 - These channels are all popular and likely have content that resonates well with their audiences.
 <br/>
 <br/>
@@ -43,10 +43,7 @@ PowerBI: Measure DAX Metrics and Data Visualization
 
    
 </pre>
-<img width="810" alt="image" src="https://github.com/Inyourdreams12/Marketing-Campaign-Running_PowerBI_Excel/assets/119731058/87cc70a4-f269-422f-bec1-5fdeff7b6f21">
-- Trrmap showcasing the close view counts of top 3 (20M, 18M, and 11M) indicate a competitive landscape where the top channels have similar levels of viewership.
-- These channels are all popular and likely have content that resonates well with their audiences.
-<br/>
-<br/>
-- The bar chart showing top YouTubers by subscribers, highlights a competitive yet close race for subscriber dominance.
-<br/>
+<img width="912" alt="image" src="https://github.com/Inyourdreams12/Marketing-Campaign-Running_PowerBI_Excel/assets/119731058/7aa55ec0-ddce-4025-a45d-b4424cb8f753">
+
+Recommendation:
+-Based on the viewership and views per subscriber, "Dan Rhodes" of top3 appears to be the best option to advance with because there's a higher return on investment (ROI) with "Dan Rhodes" compared to the other channels.
