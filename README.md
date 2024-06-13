@@ -27,7 +27,7 @@ PowerBI: Measure DAX Metrics and Data Visualization
 <img width="1235" alt="image" src="https://github.com/Inyourdreams12/Marketing-Campaign-Running_PowerBI_Excel/assets/119731058/de8a0a03-e347-468a-9df4-bccba36775bc">
 
 <br/>
-- Treemap showcasing the close view counts of top 3 (20M, 18M, and 11M) indicate a competitive landscape where the top channels have similar levels of viewership.
+- Treemap showcasing the close view counts of top 3 (20M, 18M, and 11M) indicate a competitive landscape where the top channels have similar levels of viewership.<br/>
 - These channels are all popular and likely have content that resonates well with their audiences.
 <br/>
 <br/>
