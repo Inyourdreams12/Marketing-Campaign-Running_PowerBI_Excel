@@ -34,14 +34,14 @@ PowerBI: Measure DAX Metrics and Data Visualization
 - The bar chart showing top YouTubers by subscribers, highlights a competitive yet close race for subscriber dominance.
 <br/>
 <br/>
-- The Table provide a detailed numerical breakdown of key metrics for each channel, allowing for precise analysis and comparison.<br/>
+- The Table provides a detailed numerical breakdown of key metrics for each channel, allowing for precise analysis and comparison.<br/>
 <br/>
 - The AVG views per Video metric (V/V) helps the client understand the average reach and popularity of each video.<br/>
 - The Subscribers per Video metric (S/V) shows how effectively each video attracts new subscribers.<br/>
 - Engagement Rate per Video (ERV) provides a holistic view of overall engagement by considering both views and subscribers per video.<br/>
 - Views per Subscriber (V/S):<br/>
   * Low V/S: subscribers are not watching as many videos, inactive subscribers or the content might not be as engaging to its subscribers <br/>
-  * High V/S: subscribers are highly engaged and are watching a lot of your content. This could indicate that the content is highly relevant to the audience, and they are actively consuming what you produce.
+  * High V/S: subscribers are highly engaged and are watching a lot of the content. This could indicate that the content is highly relevant to the audience, and they are actively consuming what has been produced.
 <br/>
 <pre>
 
@@ -53,6 +53,6 @@ PowerBI: Measure DAX Metrics and Data Visualization
 <img width="912" alt="image" src="https://github.com/Inyourdreams12/Marketing-Campaign-Running_PowerBI_Excel/assets/119731058/7aa55ec0-ddce-4025-a45d-b4424cb8f753">
 <br/>
 <br/>
-**Recommendation**:
+**Recommendation:**
 <br/>
 -Based on the viewership and views per subscriber, "Dan Rhodes" of top3 appears to be the best option to advance with because there's a higher return on investment (ROI) with "Dan Rhodes" compared to the other channels.
