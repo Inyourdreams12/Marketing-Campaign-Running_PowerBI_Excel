@@ -6,7 +6,7 @@ The client wants to run a successful marketing campaign with the top YouTubers f
 
 • To discover the top performing UK Youtubers to form marketing collaborations with throughout the year 2024. <br/>
 
-## The Expectation from Client: 
+## The Expectation from Client:  
 
 • A Simple dashboard that to show the Youtubers subscribers, videos uploaded and the views. <br/>
 • Make a informed decision on which Youtubers they need to collaborate with. <br/>
